@@ -1,0 +1,14 @@
+{
+  "name": "Hello World",
+  "version": "1.0.0",
+  "description": "Extensión de ejemplo para Chromium Android",
+  "manifest_version": 3,
+  "permissions": ["storage", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Hello World",
+    "default_popup": "popup.html"
+  }
+}

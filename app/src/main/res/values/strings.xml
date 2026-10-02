@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chromium Android Browser</string>
+    <string name="extensions_count">Extensiones: %1$d</string>
+    <string name="no_extensions">No hay extensiones instaladas aún.</string>
+</resources>
